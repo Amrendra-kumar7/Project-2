@@ -1,0 +1,10 @@
+scikit-learn
+numpy
+seaborn
+matplotlib
+plotly==5.24.1
+pandas
+tqdm
+kaleido
+yellowbrick
+cufflinks
